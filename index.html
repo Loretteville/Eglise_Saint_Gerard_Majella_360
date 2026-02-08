@@ -672,5 +672,96 @@
 <script src="data.js"></script>
 <script src="index.js"></script>
 
+<style>
+  /* 1. L'écran noir (Overlay) */
+  #mon-popup-overlay {
+    position: fixed;       /* Fixé par rapport à l'écran */
+    top: 0;
+    left: 0;
+    width: 100vw;          /* Toute la largeur */
+    height: 100vh;         /* Toute la hauteur */
+    background-color: rgba(0, 0, 0, 0.8); /* NOIR à 90% d'opacité */
+    z-index: 999999;       /* Très élevé pour être AU-DESSUS de Marzipano */
+    
+    /* Centrage parfait du contenu */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    /* Empêche de cliquer derrière */
+    pointer-events: auto; 
+  }
+
+  /* 2. La boîte blanche (Contenu) */
+  #mon-popup-contenu {
+    background: white;
+    padding: 30px;
+    width: 90%;            /* Responsive : 90% de la largeur sur mobile */
+    max-width: 500px;      /* Max 500px sur PC */
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+    font-family: sans-serif;
+    position: relative;
+  }
+
+  /* 3. Le Titre */
+  #mon-popup-contenu h2 {
+    margin-top: 0;
+    color: #333;
+  }
+
+  /* 4. Le Texte */
+  #mon-popup-contenu p {
+    color: #555;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+
+  /* 5. Le Bouton */
+  #btn-commencer {
+    background-color: #c0392b; /* Rouge brique */
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: background 0.3s;
+    width: 100%; /* Bouton pleine largeur */
+  }
+
+  #btn-commencer:hover {
+    background-color: #a93226;
+  }
+</style>
+
+<div id="mon-popup-overlay">
+  <div id="mon-popup-contenu">
+    <h2 style="font-weight: 900 !important;">Bienvenue à l'église de Saint-Gérard-Majella</h2>
+    <p></p>
+    <p>
+      Faites glisser votre souris pour regarder autour de vous. Remontez le temps en explorant le plus ancien lieu de culte de Val-Bélair, véritable témoin d'une foi et d'une architecture qui traversent les époques. Votre visite est ponctuée de points d'information : cliquez dessus pour en apprendre davantage sur les œuvres et l'histoire qui vous entourent.
+    </p>
+    <button id="btn-commencer">Entrer dans la visite</button>
+  </div>
+</div>
+
+<script>
+  // On attend que la page soit chargée
+  window.addEventListener('load', function() {
+    var overlay = document.getElementById('mon-popup-overlay');
+    var btn = document.getElementById('btn-commencer');
+
+    // Action au clic sur le bouton
+    btn.addEventListener('click', function() {
+      // 1. On cache le popup
+      overlay.style.display = 'none';
+    });
+  });
+</script>
+
 </body>
 </html>
