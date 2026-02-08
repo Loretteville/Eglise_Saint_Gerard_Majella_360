@@ -1,5 +1,49 @@
 var APP_DATA = {
   "scenes": [
+        {
+      "id": "69-35",
+      "name": "35",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -0.020501133826003937,
+        "pitch": -0.009943490364040741,
+        "fov": 1.1835246122144654
+      },
+      "linkHotspots": [
+        {
+          "yaw": 3.094291565569435,
+          "pitch": 0.6101085194168334,
+          "rotation": 0,
+          "target": "14-6---copie---copie---copie"
+        },
+        {
+          "yaw": 0.009043318304112091,
+          "pitch": 0.4120053253374465,
+          "rotation": 0,
+          "target": "71-36"
+        }
+      ],
+      "infoHotspots": []
+    },
     {
       "id": "0-1",
       "name": "1",
@@ -3532,50 +3576,6 @@ var APP_DATA = {
           "text": "Text"
         }
       ]
-    },
-    {
-      "id": "69-35",
-      "name": "35",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -0.020501133826003937,
-        "pitch": -0.009943490364040741,
-        "fov": 1.1835246122144654
-      },
-      "linkHotspots": [
-        {
-          "yaw": 3.094291565569435,
-          "pitch": 0.6101085194168334,
-          "rotation": 0,
-          "target": "14-6---copie---copie---copie"
-        },
-        {
-          "yaw": 0.009043318304112091,
-          "pitch": 0.4120053253374465,
-          "rotation": 0,
-          "target": "71-36"
-        }
-      ],
-      "infoHotspots": []
     },
     {
       "id": "70-35---copie",
