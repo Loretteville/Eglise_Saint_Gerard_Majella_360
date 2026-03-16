@@ -174,14 +174,7 @@ var APP_DATA = {
           "target": "4-3"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -1.7510149603539666,
-          "pitch": 0.21809992221528063,
-          "title": "Title 1",
-          "text": "Text"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "3-2---copie",
@@ -225,14 +218,7 @@ var APP_DATA = {
           "target": "4-3"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -1.7478373913244436,
-          "pitch": 0.20438045179405684,
-          "title": "Title 1",
-          "text": "Text"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "4-3",
@@ -286,8 +272,8 @@ var APP_DATA = {
         {
           "yaw": -0.4018045366104719,
           "pitch": 0.5131886942959927,
-          "title": "Title 3",
-          "text": "Text"
+          "title": "Tronc d'église",
+          "text": "Ces petites boîtes métalliques verrouillées sont solidement fixées aux bancs, aux piliers ou près des entrées pour recueillir les dons des fidèles en toute sécurité. Les fonds amassés servent généralement à l'entretien de la paroisse, à l'achat de cierges ou à l'aide aux plus démunis de la communauté."
         }
       ]
     },
@@ -343,8 +329,8 @@ var APP_DATA = {
         {
           "yaw": -0.4058358851848922,
           "pitch": 0.5069532784739028,
-          "title": "Title 3",
-          "text": "Text"
+          "title": "Tronc d'église",
+          "text": "Ces petites boîtes métalliques verrouillées sont solidement fixées aux bancs, aux piliers ou près des entrées pour recueillir les dons des fidèles en toute sécurité. Les fonds amassés servent généralement à l'entretien de la paroisse, à l'achat de cierges ou à l'aide aux plus démunis de la communauté."
         }
       ]
     },
@@ -400,8 +386,8 @@ var APP_DATA = {
         {
           "yaw": -0.3978139067704589,
           "pitch": 0.5108049819395077,
-          "title": "Title 3",
-          "text": "Text"
+          "title": "Tronc d'église",
+          "text": "Ces petites boîtes métalliques verrouillées sont solidement fixées aux bancs, aux piliers ou près des entrées pour recueillir les dons des fidèles en toute sécurité. Les fonds amassés servent généralement à l'entretien de la paroisse, à l'achat de cierges ou à l'aide aux plus démunis de la communauté."
         }
       ]
     },
@@ -939,8 +925,8 @@ var APP_DATA = {
         {
           "yaw": -1.3150622117564197,
           "pitch": -0.26201561243129134,
-          "title": "Title 4",
-          "text": "Text"
+          "title": "Exposition",
+          "text": "L'entrée principale de l'église accueille une exposition historique. On y retrouve plusieurs cadres présentant, entre autres, un montage photographique de la fondation de la paroisse en 1906, un hommage au couple donateur du terrain de la fabrique, ainsi qu'un descriptif de la paroisse."
         }
       ]
     },
@@ -990,8 +976,8 @@ var APP_DATA = {
         {
           "yaw": -1.286959321423181,
           "pitch": -0.23624547957356334,
-          "title": "Title 4",
-          "text": "Text"
+          "title": "Exposition",
+          "text": "L'entrée principale de l'église accueille une exposition historique. On y retrouve plusieurs cadres présentant, entre autres, un montage photographique de la fondation de la paroisse en 1906, un hommage au couple donateur du terrain de la fabrique, ainsi qu'un descriptif de la paroisse."
         }
       ]
     },
@@ -1217,8 +1203,8 @@ var APP_DATA = {
         {
           "yaw": -1.5307520687159801,
           "pitch": -0.08364930558296457,
-          "title": "Title 5",
-          "text": "Text"
+          "title": "7 - Jésus tombe la 2ième fois",
+          "text": "Affaibli par la souffrance et le poids de la croix, Jésus tombe à terre pour la deuxième fois."
         }
       ]
     },
@@ -1268,8 +1254,8 @@ var APP_DATA = {
         {
           "yaw": -1.519946382194215,
           "pitch": -0.08898248168381429,
-          "title": "Title 5",
-          "text": "Text"
+          "title": "7 - Jésus tombe la 2ième fois",
+          "text": "Affaibli par la souffrance et le poids de la croix, Jésus tombe à terre pour la deuxième fois."
         }
       ]
     },
@@ -1319,14 +1305,14 @@ var APP_DATA = {
         {
           "yaw": -1.5073834223044535,
           "pitch": -0.08749393748839651,
-          "title": "Title 6",
-          "text": "Text"
+          "title": "6 - Ste Véronique essuie la face de Jésus",
+          "text": "Véronique brave la foule pour essuyer le visage de Jésus, dont les traits restent miraculeusement imprimés sur le linge."
         },
         {
           "yaw": -0.9662043041259274,
           "pitch": -0.06515484272857996,
-          "title": "Title 7",
-          "text": "Text"
+          "title": "5 - Jésus aidé par le Cyrénéen",
+          "text": "Simon de Cyrène est contraint par les soldats d'aider Jésus à porter sa croix afin qu'il puisse atteindre le lieu du supplice."
         }
       ]
     },
@@ -1376,14 +1362,14 @@ var APP_DATA = {
         {
           "yaw": -1.514610065722728,
           "pitch": -0.08963489025504856,
-          "title": "Title 6",
-          "text": "Text"
+          "title": "6 - Ste Véronique essuie la face de Jésus",
+          "text": "Véronique brave la foule pour essuyer le visage de Jésus, dont les traits restent miraculeusement imprimés sur le linge."
         },
         {
           "yaw": -0.9392147923122209,
           "pitch": -0.06931978250783288,
-          "title": "Title 7",
-          "text": "Text"
+          "title": "5 - Jésus aidé par le Cyrénéen",
+          "text": "Simon de Cyrène est contraint par les soldats d'aider Jésus à porter sa croix afin qu'il puisse atteindre le lieu du supplice."
         }
       ]
     },
@@ -1433,14 +1419,14 @@ var APP_DATA = {
         {
           "yaw": -1.9245099138735355,
           "pitch": -0.08748519282207567,
-          "title": "Title 7",
-          "text": "Text"
+          "title": "5 - Jésus aidé par le Cyrénéen",
+          "text": "Simon de Cyrène est contraint par les soldats d'aider Jésus à porter sa croix afin qu'il puisse atteindre le lieu du supplice."
         },
         {
           "yaw": -0.8998919396623517,
           "pitch": -0.07123973832474206,
-          "title": "Title 8",
-          "text": "Text"
+          "title": "4 - Jésus rencontre sa Ste Mère",
+          "text": "Sur le chemin du Calvaire, Jésus croise le regard de sa mère, Marie, partageant un bref moment de douleur silencieuse."
         }
       ]
     },
@@ -1490,14 +1476,14 @@ var APP_DATA = {
         {
           "yaw": -1.9273498815902315,
           "pitch": -0.09423222854464619,
-          "title": "Title 7",
-          "text": "Text"
+          "title": "5 - Jésus aidé par le Cyrénéen",
+          "text": "Simon de Cyrène est contraint par les soldats d'aider Jésus à porter sa croix afin qu'il puisse atteindre le lieu du supplice."
         },
         {
           "yaw": -0.9226042133695582,
           "pitch": -0.07187512209590352,
-          "title": "Title 8",
-          "text": "Text"
+          "title": "4 - Jésus rencontre sa Ste Mère",
+          "text": "Sur le chemin du Calvaire, Jésus croise le regard de sa mère, Marie, partageant un bref moment de douleur silencieuse."
         }
       ]
     },
@@ -1547,14 +1533,14 @@ var APP_DATA = {
         {
           "yaw": -1.893494506784382,
           "pitch": -0.08655974682387324,
-          "title": "Title 8",
-          "text": "Text"
+          "title": "4 - Jésus rencontre sa Ste Mère",
+          "text": "Sur le chemin du Calvaire, Jésus croise le regard de sa mère, Marie, partageant un bref moment de douleur silencieuse."
         },
         {
           "yaw": -1.2890989287490253,
           "pitch": -0.07910853436915133,
-          "title": "Title 9",
-          "text": "Text"
+          "title": "3 - Jésus tombe la 1ère fois",
+          "text": "Sous le poids écrasant de la croix, Jésus trébuche et tombe à terre pour la première fois."
         }
       ]
     },
@@ -1604,14 +1590,14 @@ var APP_DATA = {
         {
           "yaw": -1.9020016365362586,
           "pitch": -0.08270764656265861,
-          "title": "Title 8",
-          "text": "Text"
+          "title": "4 - Jésus rencontre sa Ste Mère",
+          "text": "Sur le chemin du Calvaire, Jésus croise le regard de sa mère, Marie, partageant un bref moment de douleur silencieuse."
         },
         {
           "yaw": -1.2931040388553896,
           "pitch": -0.08151155216285133,
-          "title": "Title 9",
-          "text": "Text"
+          "title": "3 - Jésus tombe la 1ère fois",
+          "text": "Sous le poids écrasant de la croix, Jésus trébuche et tombe à terre pour la première fois."
         }
       ]
     },
@@ -1661,14 +1647,14 @@ var APP_DATA = {
         {
           "yaw": -2.172107660548887,
           "pitch": -0.08785446515210893,
-          "title": "Title 9",
-          "text": "Text"
+          "title": "3 - Jésus tombe la 1ère fois",
+          "text": "Sous le poids écrasant de la croix, Jésus trébuche et tombe à terre pour la première fois."
         },
         {
           "yaw": -1.1332205118021186,
           "pitch": -0.08978598444206298,
-          "title": "Title 10",
-          "text": "Text"
+          "title": "2 - Jésus chargé de sa croix",
+          "text": "Jésus accepte la croix, qu’il doit porter lui-même jusqu’au lieu de son supplice."
         }
       ]
     },
@@ -1718,14 +1704,14 @@ var APP_DATA = {
         {
           "yaw": -2.1676974074267523,
           "pitch": -0.09072091313827713,
-          "title": "Title 9",
-          "text": "Text"
+          "title": "3 - Jésus tombe la 1ère fois",
+          "text": "Sous le poids écrasant de la croix, Jésus trébuche et tombe à terre pour la première fois."
         },
         {
           "yaw": -1.145154696416565,
           "pitch": -0.09641229262352624,
-          "title": "Title 10",
-          "text": "Text"
+          "title": "2 - Jésus chargé de sa croix",
+          "text": "Jésus accepte la croix, qu’il doit porter lui-même jusqu’au lieu de son supplice."
         }
       ]
     },
@@ -1775,14 +1761,14 @@ var APP_DATA = {
         {
           "yaw": -2.1396020434488534,
           "pitch": -0.07404608880500163,
-          "title": "Title 10",
-          "text": "Text"
+          "title": "2 - Jésus chargé de sa croix",
+          "text": "Jésus accepte la croix, qu’il doit porter lui-même jusqu’au lieu de son supplice."
         },
         {
           "yaw": -1.5834407891085842,
           "pitch": -0.09744600853806418,
-          "title": "Title 11",
-          "text": "Text"
+          "title": "1 - Jésus condamné à mort",
+          "text": "Ponce Pilate condamne Jésus à mort et se lave les mains pour signifier qu'il se dégage de la responsabilité de ce jugement."
         }
       ]
     },
@@ -1832,14 +1818,14 @@ var APP_DATA = {
         {
           "yaw": -2.1527513217735486,
           "pitch": -0.07259373412648351,
-          "title": "Title 10",
-          "text": "Text"
+          "title": "2 - Jésus chargé de sa croix",
+          "text": "Jésus accepte la croix, qu’il doit porter lui-même jusqu’au lieu de son supplice."
         },
         {
           "yaw": -1.5802083296670126,
           "pitch": -0.09356230989857828,
-          "title": "Title 11",
-          "text": "Text"
+          "title": "1 - Jésus condamné à mort",
+          "text": "Ponce Pilate condamne Jésus à mort et se lave les mains pour signifier qu'il se dégage de la responsabilité de ce jugement."
         }
       ]
     },
@@ -2209,8 +2195,8 @@ var APP_DATA = {
         {
           "yaw": 0.7232761117511295,
           "pitch": -0.060398541615697354,
-          "title": "Title 12",
-          "text": "Text"
+          "title": "Autel latéral sud",
+          "text": "Autel en bois sculpté et entièrement doré provenant de l'Ancienne-Lorette. Probablement l'oeuvre de François-Xavier Leprohon vers 1865."
         }
       ]
     },
@@ -2666,8 +2652,8 @@ var APP_DATA = {
         {
           "yaw": 0.9917054505123879,
           "pitch": -0.13335231973736228,
-          "title": "Title 15",
-          "text": "Text"
+          "title": "Sculpture de Saint-Gérard Majella",
+          "text": "Saint Gérard Majella (1726-1755) est un frère rédemptoriste italien, célèbre pour sa piété, ses nombreux miracles (bilocation, guérison) et sa dévotion extrême. Surnommé le « faiseur de miracles », il est le saint patron des mères, des femmes enceintes, des enfants et des personnes calomniées, canonisé en 1904."
         }
       ]
     },
@@ -2723,8 +2709,8 @@ var APP_DATA = {
         {
           "yaw": 1.0104199801174438,
           "pitch": -0.14675606348536974,
-          "title": "Title 15",
-          "text": "Text"
+          "title": "Sculpture de Saint-Gérard Majella",
+          "text": "Saint Gérard Majella (1726-1755) est un frère rédemptoriste italien, célèbre pour sa piété, ses nombreux miracles (bilocation, guérison) et sa dévotion extrême. Surnommé le « faiseur de miracles », il est le saint patron des mères, des femmes enceintes, des enfants et des personnes calomniées, canonisé en 1904."
         }
       ]
     },
@@ -2831,14 +2817,14 @@ var APP_DATA = {
         {
           "yaw": 1.6210953188261188,
           "pitch": -0.10992616036605796,
-          "title": "Title 17",
-          "text": "Text"
+          "title": "14 - Jésus mis au tombeau",
+          "text": "Dernière étape du chemin de croix. Le corps du Christ, descendu de la croix, est préparé par ses proches pour être mis au tombeau."
         },
         {
           "yaw": 2.1906655781813633,
           "pitch": -0.07489363723830422,
-          "title": "Title 18",
-          "text": "Text"
+          "title": "13 - Jésus descendu de la croix",
+          "text": "Le corps inanimé de Jésus est détaché de la croix et descendu avec précaution par ses proches."
         }
       ]
     },
@@ -3014,8 +3000,8 @@ var APP_DATA = {
         {
           "yaw": 0.7803317199248667,
           "pitch": -0.08909920918747716,
-          "title": "Title 16",
-          "text": "Text"
+          "title": "Autel latéral nord",
+          "text": "Autel en bois sculpté et entièrement doré provenant de l'Ancienne-Lorette. Probablement l'oeuvre de François-Xavier Leprohon vers 1865."
         }
       ]
     },
@@ -3065,14 +3051,14 @@ var APP_DATA = {
         {
           "yaw": 1.1545757898476747,
           "pitch": -0.11062346554257729,
-          "title": "Title 18",
-          "text": "Text"
+          "title": "13 - Jésus descendu de la croix",
+          "text": "Le corps inanimé de Jésus est détaché de la croix et descendu avec précaution par ses proches."
         },
         {
           "yaw": 2.2001438314143336,
           "pitch": -0.08958527097261104,
-          "title": "Title 19",
-          "text": "Text"
+          "title": "12 - Jésus meurt du la croix",
+          "text": "Jésus meurt sur la croix après une longue agonie, entouré de sa mère Marie et du disciple Jean."
         }
       ]
     },
@@ -3122,14 +3108,14 @@ var APP_DATA = {
         {
           "yaw": 1.1704447274608647,
           "pitch": -0.11302977495597055,
-          "title": "Title 18",
-          "text": "Text"
+          "title": "13 - Jésus descendu de la croix",
+          "text": "Le corps inanimé de Jésus est détaché de la croix et descendu avec précaution par ses proches."
         },
         {
           "yaw": 2.20047258131107,
           "pitch": -0.0927221333222139,
-          "title": "Title 19",
-          "text": "Text"
+          "title": "12 - Jésus meurt du la croix",
+          "text": "Jésus meurt sur la croix après une longue agonie, entouré de sa mère Marie et du disciple Jean."
         }
       ]
     },
@@ -3179,14 +3165,14 @@ var APP_DATA = {
         {
           "yaw": 1.2465758968820762,
           "pitch": -0.1334863114939573,
-          "title": "Title 19",
-          "text": "Text"
+          "title": "12 - Jésus meurt du la croix",
+          "text": "Jésus meurt sur la croix après une longue agonie, entouré de sa mère Marie et du disciple Jean."
         },
         {
           "yaw": 1.8790248978301864,
           "pitch": -0.1054706429888359,
-          "title": "Title 20",
-          "text": "Text"
+          "title": "11 - Jésus cloué à la croix",
+          "text": "Les bourreaux étendent Jésus sur la croix et lui clouent les mains et les pieds."
         }
       ]
     },
@@ -3236,14 +3222,14 @@ var APP_DATA = {
         {
           "yaw": 1.2673346874500862,
           "pitch": -0.12095393162793222,
-          "title": "Title 19",
-          "text": "Text"
+          "title": "12 - Jésus meurt du la croix",
+          "text": "Jésus meurt sur la croix après une longue agonie, entouré de sa mère Marie et du disciple Jean."
         },
         {
           "yaw": 1.872567397500175,
           "pitch": -0.09326358040352467,
-          "title": "Title 20",
-          "text": "Text"
+          "title": "11 - Jésus cloué à la croix",
+          "text": "Les bourreaux étendent Jésus sur la croix et lui clouent les mains et les pieds."
         }
       ]
     },
@@ -3293,14 +3279,14 @@ var APP_DATA = {
         {
           "yaw": 0.9007346805314498,
           "pitch": -0.10460377280121236,
-          "title": "Title 20",
-          "text": "Text"
+          "title": "11 - Jésus cloué à la croix",
+          "text": "Les bourreaux étendent Jésus sur la croix et lui clouent les mains et les pieds."
         },
         {
           "yaw": 1.9351612290874218,
           "pitch": -0.10460384852764903,
-          "title": "Title 21",
-          "text": "Text"
+          "title": "10 - Jésus dépouillé de ses vêtements",
+          "text": "Arrivé au lieu du supplice, Jésus est dépouillé de ses vêtements par les soldats."
         }
       ]
     },
@@ -3350,14 +3336,14 @@ var APP_DATA = {
         {
           "yaw": 0.8970518486205599,
           "pitch": -0.09390978206341138,
-          "title": "Title 20",
-          "text": "Text"
+          "title": "11 - Jésus cloué à la croix",
+          "text": "Les bourreaux étendent Jésus sur la croix et lui clouent les mains et les pieds."
         },
         {
           "yaw": 1.9308038446361593,
           "pitch": -0.11702880786999614,
-          "title": "Title 21",
-          "text": "Text"
+          "title": "10 - Jésus dépouillé de ses vêtements",
+          "text": "Arrivé au lieu du supplice, Jésus est dépouillé de ses vêtements par les soldats."
         }
       ]
     },
@@ -3407,14 +3393,14 @@ var APP_DATA = {
         {
           "yaw": 0.9266882827490619,
           "pitch": -0.10069520579300217,
-          "title": "Title 21",
-          "text": "Text"
+          "title": "10 - Jésus dépouillé de ses vêtements",
+          "text": "Arrivé au lieu du supplice, Jésus est dépouillé de ses vêtements par les soldats."
         },
         {
           "yaw": 1.4866860360566632,
           "pitch": -0.11710832384245684,
-          "title": "Title 22",
-          "text": "Text"
+          "title": "9 - Jésus tombe la 3ième fois",
+          "text": "Épuisé par la marche et le poids de la croix, Jésus s'effondre pour la troisième fois avant d'atteindre le sommet du Calvaire."
         }
       ]
     },
@@ -3464,14 +3450,14 @@ var APP_DATA = {
         {
           "yaw": 0.9202310442503752,
           "pitch": -0.1120689353521449,
-          "title": "Title 21",
-          "text": "Text"
+          "title": "10 - Jésus dépouillé de ses vêtements",
+          "text": "Arrivé au lieu du supplice, Jésus est dépouillé de ses vêtements par les soldats."
         },
         {
           "yaw": 1.4772911998131537,
           "pitch": -0.12026037468380046,
-          "title": "Title 22",
-          "text": "Text"
+          "title": "9 - Jésus tombe la 3ième fois",
+          "text": "Épuisé par la marche et le poids de la croix, Jésus s'effondre pour la troisième fois avant d'atteindre le sommet du Calvaire."
         }
       ]
     },
@@ -3521,8 +3507,8 @@ var APP_DATA = {
         {
           "yaw": 1.6314739630502508,
           "pitch": -0.1130258067649006,
-          "title": "Title 23",
-          "text": "Text"
+          "title": "8 - Jésus console les Stes Femmes",
+          "text": "Jésus s'arrête pour consoler les femmes de Jérusalem qui pleurent sur son passage."
         }
       ]
     },
@@ -3572,8 +3558,8 @@ var APP_DATA = {
         {
           "yaw": 1.62693282228987,
           "pitch": -0.11941863604915426,
-          "title": "Title 23",
-          "text": "Text"
+          "title": "8 - Jésus console les Stes Femmes",
+          "text": "Jésus s'arrête pour consoler les femmes de Jérusalem qui pleurent sur son passage."
         }
       ]
     },
@@ -4667,14 +4653,7 @@ var APP_DATA = {
           "target": "95-48"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": 1.1557741761418452,
-          "pitch": 0.27760820827983856,
-          "title": "Title 14",
-          "text": "Text"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "94-46---copie",
@@ -4718,14 +4697,7 @@ var APP_DATA = {
           "target": "95-48"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": 1.146711830960685,
-          "pitch": 0.29140405763092403,
-          "title": "Title 14",
-          "text": "Text"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "95-48",
@@ -4769,14 +4741,7 @@ var APP_DATA = {
           "target": "97-49"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -0.9277154005847059,
-          "pitch": 0.31113157863451946,
-          "title": "Title 14",
-          "text": "Text"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "96-48---copie",
@@ -4820,14 +4785,7 @@ var APP_DATA = {
           "target": "97-49"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -0.9401289069414069,
-          "pitch": 0.3054373692305248,
-          "title": "Title 14",
-          "text": "Text"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "97-49",
@@ -5521,8 +5479,8 @@ var APP_DATA = {
         {
           "yaw": 0.08829713310752041,
           "pitch": 0.0957186736839688,
-          "title": "Title 13",
-          "text": "Text"
+          "title": "Maître-autel",
+          "text": "Provenant de l'église de l'Ancienne-Lorette, ce tabernacle en bois sculpté et entièrement doré est attribué à Noël Levasseur (vers 1735). De conception presque identique à celui de la chapelle des Ursulines de Québec, il s'en distingue par de très légères variantes. Son histoire est notamment marquée par une restauration en 1809, année où les religieuses de l'Hôpital Général de Québec l'ont redoré à la colle. L'œuvre se démarque par la finesse des fonds gravés du tabernacle et de ses prédelles (les façades des gradins), traditionnellement ornées de rinceaux, ces élégants motifs de tiges fleuries enroulées. À noter que les niches sont aujourd'hui dépourvues de leurs statues d'origine."
         }
       ]
     },
@@ -5744,14 +5702,7 @@ var APP_DATA = {
           "target": "118-71"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": 0.40759014672414295,
-          "pitch": -0.9940172481503176,
-          "title": "Title 24",
-          "text": "Text"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "117-70---copie",
@@ -5795,14 +5746,7 @@ var APP_DATA = {
           "target": "118-71"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": 0.4668571815799325,
-          "pitch": -0.9828595983867814,
-          "title": "Title 24",
-          "text": "Text"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "118-71",
@@ -6600,14 +6544,7 @@ var APP_DATA = {
           "target": "137-86"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -3.0518594260190746,
-          "pitch": -0.805280901828251,
-          "title": "Title 25",
-          "text": "Text"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "136-85---copie",
@@ -6651,14 +6588,7 @@ var APP_DATA = {
           "target": "137-86"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -2.983463306352551,
-          "pitch": -0.7867482235209913,
-          "title": "Title 25",
-          "text": "Text"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "137-86",
